@@ -18,4 +18,4 @@ Data Availability Statement:
 
 Significane statement:
 
-    The significance of this research cannot be understated despite its somewhat small scope. Given a correlation between any variables pertaining to the description of waves and the outcome of those waves(and their given rogue classification) could entail prediction and forecasting methods for the occurence of Rogue Waves.
+    Given a correlation between any variables pertaining to the description of waves and the outcome of those waves(and their given rogue classification) could entail prediction and forecasting methods for the occurence of Rogue Waves.
