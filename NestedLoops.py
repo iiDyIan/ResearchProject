@@ -28,3 +28,9 @@ inputVariableIndexes = {
   energyInFrequencyInterval = variables["EnergyInFrequency"][:],
   relEnergyInFrequency = variables["RelativeEnergyInFrequency"][:]
 }
+
+for s in range(len(skewness)) and for k in range(len(kurtosis)) and for pwP in range(len(peakWavePeriod)) and for pwL in range(len(peakWaveLength)) and for st in range(len(steepness)) and for b in range(len(bandwith)) and for bfi in range(len(bejaminFeirIndex)) and for ctc in range(len(crestTroughCorrelation)) and for eiFI in range(len(energyInFrequencyInterval)) and for reFI in range(len(relEnergyInFrequency)):
+  
+  
+  
+  
